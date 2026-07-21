@@ -59,13 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
 
 ## 🔥 GitHub Streak
 
