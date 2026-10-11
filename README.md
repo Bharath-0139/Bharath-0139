@@ -86,7 +86,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/bharath-s-50a00533b/
+- 💼 LinkedIn: https://www.linkedin.com/in/bharath-software
 - 📧 Email: bharaths122005@gmail.com
 
 ---
